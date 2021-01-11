@@ -3,9 +3,4 @@
     <declare-styleable name="LuckyWheel">
         <attr name="pie_number" format="integer"/>
     </declare-styleable>
-    <declare-styleable name="PieView">
-        <attr name="icon" format="integer"/>
-        <attr name="text" format="string"/>
-        <attr name="pie_background" format="integer"/>
-    </declare-styleable>
 </resources>
